@@ -41,8 +41,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://qkffleostm.github.io/ex06",
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+  "homepage": "http://qkffleostm.github.io/ex06"
 }
